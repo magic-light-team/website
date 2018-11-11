@@ -19,6 +19,14 @@ h6 {
     padding-top: 9em !important;
 }
 
-.rtl-dir{
+.rtl-dir {
     direction: rtl;
+}
+
+#activity>div {
+    margin-top: 4em;
+}
+
+#activity>div>div>h3 {
+    margin-top: 1em;
 }
