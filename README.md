@@ -2,7 +2,7 @@
 
 our team's website
 
-[our webpage link](magiclight.ir)
+[our webpage link](http://magiclight.ir/)
 
 ## TODO
 
